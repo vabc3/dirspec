@@ -1,0 +1,6 @@
+[package]
+name = "dirspec"
+version = "0.1.0"
+authors = ["Karata@w8 <vabc3h@gmail.com>"]
+
+[dependencies]
